@@ -1,0 +1,11 @@
+{
+  "gemini": {
+    "apiKey": "AIzaSyATD5WzBVR-wA9HyoX3ymVsOb7BOuR7uyY"
+  },
+  "logging": {
+    "errorLogPath": "logs/error-%DATE%.log",
+    "combinedLogPath": "logs/combined-%DATE%.log",
+    "datePattern": "yyyy-MM-dd",
+    "level": "info"
+  }
+}
